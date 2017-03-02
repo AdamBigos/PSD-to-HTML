@@ -158,7 +158,6 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
 .middle_image{
-    width: 1063px;
     margin: 0 auto;
 }
 
@@ -168,7 +167,6 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 
 .menu_wraper{
     margin: 0PX auto;
-    width: 1200px;
 }
 
 .menu {
@@ -312,7 +310,6 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
 .footer_logo {
-    width: 57px;
     clear: left;
     margin: 10px auto;
 }
